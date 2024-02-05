@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mujoco-logger"
-version = "0.1.0"
+version = "0.1.1"
 description = "Handy tool to log simulation from MuJoCo"
 authors = ["Lev Kozlov <kozlov.l.a10@gmail.com>"]
 license = "GNU General Public License v3.0"
