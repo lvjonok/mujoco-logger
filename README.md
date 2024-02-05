@@ -1,9 +1,6 @@
 # mujoco-logger
 
-[![PyPI version](https://badge.fury.io/py/mujoco-logger.svg)](https://pypi.org/project/mujoco-logger)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/lvjonok/mujoco-logger/main.svg)](https://results.pre-commit.ci/badge/github/lvjonok/mujoco-logger/main.svg)
-
-<!-- [![Documentation Status](https://readthedocs.org/projects/cmeel/badge/?version=latest)](https://cmeel.readthedocs.io/en/latest/?badge=latest) -->
+[![PyPI version](https://badgen.net/pypi/v/mujoco-logger/?icon=pypi)](https://badgen.net/pypi/v/mujoco-logger/?icon=pypi)
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
