@@ -1,6 +1,6 @@
 # mujoco-logger
 
-[![PyPI version](https://badgen.net/pypi/v/mujoco-logger/?icon=pypi)](https://badgen.net/pypi/v/mujoco-logger/?icon=pypi)
+[![PyPI version](https://badgen.net/pypi/v/mujoco-logger)](https://badgen.net/pypi/v/mujoco-logger)
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
