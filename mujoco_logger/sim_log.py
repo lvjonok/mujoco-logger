@@ -174,7 +174,10 @@ class SimLog:
             qi = self.__history["data_qpos"][i]
             vi = self.__history["data_qvel"][i]
 
-            pinpos, pinvel = muj2pin(qi, vi)
+            if self.nq != self.nv:
+                pinpos, pinvel = muj2pin(qi, vi)
+            else:
+                pinpos, pinvel = qi.copy(), vi.copy()
 
             self.__pinpos[i] = pinpos
             self.__pinvel[i] = pinvel
